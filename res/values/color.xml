@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="holo_blue_light">#33b5e5</color>
+    <color name="holo_green_light">#99cc00</color>
+    <color name="holo_orange_light">#ffbb33</color>
+    <color name="holo_red_light">#ff4444</color>
+    <color name="gray_light">#dfdfdf</color>
+    
+    <color name="lemon_chiffon">#123456</color>
+    <color name="cornsilk">#654321</color>
+    <color name="articlecolor">#3399FF</color>
+    <color name="cachecolor">#8ad0e8</color>
+
+</resources>
